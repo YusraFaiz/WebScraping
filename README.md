@@ -14,7 +14,7 @@ Then, import the library and create a Beautiful Soup object:
 
 
 **TO RUN THIS PROJECT**
-1) Make a new folder --> "scraper" and paste it on desktop.
+1) download the code and paste it on desktop under the folder name scraper.
 2) open cmd 
 3) change the directory to  cd Desktop/scraper
 4) create virtual env by typing--> virtualenv env
