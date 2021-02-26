@@ -13,3 +13,17 @@ $ pip3 install beautifulsoup4
 Then, import the library and create a Beautiful Soup object:
 
 
+**TO RUN THIS PROJECT**
+Make a new folder --> "scraper" and paste it on desktop.
+open cmd 
+change the directory to  cd Desktop/scraper
+create virtual env bt typing--> virtualenv env
+cd env
+cd scripts
+activate
+cd..
+cd..
+cd mysite
+python manage.py runserver
+copy the localhost server address and paste it on browser
+you are done!!!!!
