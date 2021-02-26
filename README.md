@@ -17,7 +17,7 @@ Then, import the library and create a Beautiful Soup object:
 1) Make a new folder --> "scraper" and paste it on desktop.
 2) open cmd 
 3) change the directory to  cd Desktop/scraper
-4) create virtual env bt typing--> virtualenv env
+4) create virtual env by typing--> virtualenv env
 5) cd env
 6) cd scripts
 7) activate
