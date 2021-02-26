@@ -14,16 +14,16 @@ Then, import the library and create a Beautiful Soup object:
 
 
 **TO RUN THIS PROJECT**
-Make a new folder --> "scraper" and paste it on desktop.
-open cmd 
-change the directory to  cd Desktop/scraper
-create virtual env bt typing--> virtualenv env
-cd env
-cd scripts
-activate
-cd..
-cd..
-cd mysite
-python manage.py runserver
-copy the localhost server address and paste it on browser
-you are done!!!!!
+1) Make a new folder --> "scraper" and paste it on desktop.
+2) open cmd 
+3) change the directory to  cd Desktop/scraper
+4) create virtual env bt typing--> virtualenv env
+5) cd env
+6) cd scripts
+7) activate
+8) cd..
+9) cd..
+10) cd mysite
+11) python manage.py runserver
+12) copy the localhost server address and paste it on browser
+13) you are done!!!!!
